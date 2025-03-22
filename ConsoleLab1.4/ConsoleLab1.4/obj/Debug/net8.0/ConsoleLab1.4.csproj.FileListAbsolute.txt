@@ -1,0 +1,14 @@
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\bin\Debug\net8.0\ConsoleLab1.4.exe
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\bin\Debug\net8.0\ConsoleLab1.4.deps.json
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\bin\Debug\net8.0\ConsoleLab1.4.runtimeconfig.json
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\bin\Debug\net8.0\ConsoleLab1.4.dll
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\bin\Debug\net8.0\ConsoleLab1.4.pdb
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.AssemblyInfoInputs.cache
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.AssemblyInfo.cs
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.csproj.CoreCompileInputs.cache
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.dll
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\refint\ConsoleLab1.4.dll
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.pdb
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ConsoleLab1.4.genruntimeconfig.cache
+C:\Users\kolan\Desktop\Уник\ConsoleLab1.4\ConsoleLab1.4\obj\Debug\net8.0\ref\ConsoleLab1.4.dll

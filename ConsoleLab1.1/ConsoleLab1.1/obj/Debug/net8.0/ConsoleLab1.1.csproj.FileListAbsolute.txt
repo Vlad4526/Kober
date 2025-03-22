@@ -1,0 +1,14 @@
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\bin\Debug\net8.0\ConsoleLab1.1.exe
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\bin\Debug\net8.0\ConsoleLab1.1.deps.json
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\bin\Debug\net8.0\ConsoleLab1.1.runtimeconfig.json
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\bin\Debug\net8.0\ConsoleLab1.1.dll
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\bin\Debug\net8.0\ConsoleLab1.1.pdb
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.AssemblyInfoInputs.cache
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.AssemblyInfo.cs
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.csproj.CoreCompileInputs.cache
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.dll
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\refint\ConsoleLab1.1.dll
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.pdb
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ConsoleLab1.1.genruntimeconfig.cache
+C:\Users\kolan\source\repos\ConsoleLab1.1\ConsoleLab1.1\obj\Debug\net8.0\ref\ConsoleLab1.1.dll

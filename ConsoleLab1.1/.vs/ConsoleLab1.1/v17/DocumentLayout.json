@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kolan\\source\\repos\\ConsoleLab1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57781061-614D-4C61-90D8-F1B01F68EC3A}|ConsoleLab1.1\\ConsoleLab1.1.csproj|c:\\users\\kolan\\source\\repos\\consolelab1.1\\consolelab1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57781061-614D-4C61-90D8-F1B01F68EC3A}|ConsoleLab1.1\\ConsoleLab1.1.csproj|solutionrelative:consolelab1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kolan\\source\\repos\\ConsoleLab1.1\\ConsoleLab1.1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleLab1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\kolan\\source\\repos\\ConsoleLab1.1\\ConsoleLab1.1\\Program.cs",
+              "RelativeToolTip": "ConsoleLab1.1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:07:19.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
