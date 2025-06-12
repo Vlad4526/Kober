@@ -1,0 +1,14 @@
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\bin\Debug\net8.0\Lb10.exe
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\bin\Debug\net8.0\Lb10.deps.json
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\bin\Debug\net8.0\Lb10.runtimeconfig.json
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\bin\Debug\net8.0\Lb10.dll
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\bin\Debug\net8.0\Lb10.pdb
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.AssemblyInfoInputs.cache
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.AssemblyInfo.cs
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.csproj.CoreCompileInputs.cache
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.dll
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\refint\Lb10.dll
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.pdb
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\Lb10.genruntimeconfig.cache
+C:\Users\kolan\Desktop\Уник\Lb10\Lb10\obj\Debug\net8.0\ref\Lb10.dll
